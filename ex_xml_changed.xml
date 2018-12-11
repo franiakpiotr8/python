@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><menu date="2019-01-01">
+	<course>
+		<name>dumplings with mushrooms and cabbage</name>
+		<price>15.00</price>
+		<waiting_time>15min</waiting_time>
+		<ingredient num="1">mushroom</ingredient>
+		<ingredient num="2">cabbage</ingredient>
+	</course>
+	<course>
+		<name>Scrambled eggs</name>
+		<price>6.00</price>
+		<waiting_time>5min</waiting_time>
+		<ingredient num="1">eggs</ingredient>
+		<ingredient num="2">ham</ingredient>
+		<ingredient num="3">salt</ingredient>
+	</course>
+	<course>
+		<name>toast</name>
+		<price>3.00</price>
+		<waiting_time>2min</waiting_time>
+		<ingredient num="1">chesse</ingredient>
+		<ingredient num="2">ham</ingredient>
+		<ingredient num="3">tomatoe sauce</ingredient>
+	</course>
+</menu>
